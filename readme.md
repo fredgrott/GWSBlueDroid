@@ -1,6 +1,9 @@
 GWSBlueDroid
 ============
 
+![alt text](https://github.com/shareme/GWSBlueDroid/raw/master/readme.assets/16-sixteen-Blue-Android.jpg "BlueDroid")
+
+
 # Introduction
 
 I am running into similar issues that Cyril Mottier did that caused him to 
