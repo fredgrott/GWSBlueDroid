@@ -31,8 +31,7 @@ Copyright 2013-Forever fred Grott-GrottWorkShop
 
 # Credits
 
-## Cyril Mottier 
-[GreenDroid]('https://github.com/cyrilmottier/GreenDroid')
+
 
 ## Jake Wharton 
 [DiskLruCache]('https://github.com/JakeWharton/DiskLruCache')
@@ -42,6 +41,13 @@ Copyright 2013-Forever fred Grott-GrottWorkShop
 [NineOldAndroids]('https://github.com/JakeWharton/NineOldAndroids')
 
 [ActivityCompat2]('https://github.com/JakeWharton/ActivityCompat2')
+
+[SwipeToDismissNOA]('https://github.com/JakeWharton/SwipeToDismissNOA')
+
+[AndroidViewPagerindicator]('https://github.com/JakeWharton/Android-ViewPagerIndicator')
+
+## Daniel Lew
+[AndroidGridLayout]('https://github.com/dlew/android-gridlayout')
 
 ## Chris Banes
 [AndroidBitmapCache]('https://github.com/chrisbanes/Android-BitmapCache')
