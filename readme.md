@@ -31,7 +31,25 @@ Copyright 2013-Forever fred Grott-GrottWorkShop
 
 # Credits
 
-Cyril Mottier, [GreenDroid](https://github.com/cyrilmottier/GreenDroid)
+## Cyril Mottier 
+[GreenDroid]('https://github.com/cyrilmottier/GreenDroid')
 
-Project Lead, [Fred Grott](http://about.me/fredrott)
+## Jake Wharton 
+[DiskLruCache]('https://github.com/JakeWharton/DiskLruCache')
+
+[HanselandGretel]('https://github.com/JakeWharton/HanselAndGretel')
+             
+[NineOldAndroids]('https://github.com/JakeWharton/NineOldAndroids')
+
+[ActivityCompat2]('https://github.com/JakeWharton/ActivityCompat2')
+
+## Chris Banes
+[AndroidBitmapCache]('https://github.com/chrisbanes/Android-BitmapCache')
+             
+             
+## Wladimir J. van der Laan
+[Android-Animation-Backport]('https://github.com/YkSix/android-animation-backport')             
+
+## Project Lead
+[Fred Grott](http://about.me/fredrott)
 
