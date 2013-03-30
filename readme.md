@@ -54,7 +54,17 @@ Copyright 2013-Forever fred Grott-GrottWorkShop
              
              
 ## Wladimir J. van der Laan
-[Android-Animation-Backport]('https://github.com/YkSix/android-animation-backport')             
+[Android-Animation-Backport]('https://github.com/YkSix/android-animation-backport') 
+
+## Wuman
+[LruSpoftCache]('https://github.com/wuman/LruSoftCache')    
+
+## Lolay
+[StrandsAndroid]('https://github.com/lolay/strands-android')  
+
+[LogJamAndroid]('https://github.com/lolay/logjam-android')  
+
+[ErredAndroid]('https://github.com/lolay/erred-android') 
 
 ## Project Lead
 [Fred Grott](http://about.me/fredrott)
