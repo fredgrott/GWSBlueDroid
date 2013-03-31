@@ -46,6 +46,31 @@ Copyright 2013-Forever fred Grott-GrottWorkShop
 
 [AndroidViewPagerindicator]('https://github.com/JakeWharton/Android-ViewPagerIndicator')
 
+[Salvage]('https://github.com/JakeWharton/salvage')
+
+## Square
+[Seismic]('https://github.com/square/seismic')
+
+## Benoit Lubek
+[Android ActivityLifecycleCallbacks Compatibility Library]('https://github.com/BoD/android-activitylifecyclecallbacks-compat')
+
+[Switch backport]('https://github.com/BoD/android-switch-backport')
+
+## AOSP
+[via GoogleTVRemote. SclaeGestureDectector]('http://code.google.com/p/google-tv-remote/source/browse/src/com/google/android/apps/tvremote/backport/?r=868048f1648f3624bc52c60773d7351340137b7b')
+
+## Almeros
+[AndroidGestureDectors]('https://github.com/Almeros/android-gesture-detectors')
+
+## MikeOrtiz
+[TouchimageView]('https://github.com/MikeOrtiz/TouchImageView')
+
+## Arnaud Bos
+[AndroidGestureListView]('https://github.com/arnaudbos/Android-GestureListView')
+
+## Roberto Tyley
+[AndroidViewHolderListViews]('https://github.com/rtyley/android-viewholder-listviews')
+
 ## Daniel Lew
 [AndroidGridLayout]('https://github.com/dlew/android-gridlayout')
 
@@ -65,6 +90,22 @@ Copyright 2013-Forever fred Grott-GrottWorkShop
 [LogJamAndroid]('https://github.com/lolay/logjam-android')  
 
 [ErredAndroid]('https://github.com/lolay/erred-android') 
+
+## Steven Rudenko
+[ActionsContentView]('https://github.com/StevenRudenko/ActionsContentView')
+
+## Ragunath Jawahar
+[SimpleSectionAdapter]('https://github.com/ragunathjawahar/simple-section-adapter')
+
+[InstantAdapter]('https://github.com/ragunathjawahar/instant-adapter')
+
+[CircularListAdapter]('https://github.com/ragunathjawahar/circular-list-adapter')
+
+## Foxykeep
+[DataDroid]('https://github.com/foxykeep/DataDroid')
+
+## Francesco Pontillo
+[ImageViewEx]('https://github.com/frapontillo/ImageViewEx')
 
 ## Project Lead
 [Fred Grott](http://about.me/fredrott)
