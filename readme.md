@@ -83,8 +83,53 @@ Copyright 2013-Forever fred Grott-GrottWorkShop
 ## Tonic Artos
 [StickyGridHeaders]('https://github.com/TonicArtos/StickyGridHeaders')
 
+## Jonas Gehring
+[AndroidDockableView]('https://github.com/jjoe64/android-dockable-view')
+
+## Rajiv Narayana Singaseni
+[InfiniteAndroidListAdpater]('https://github.com/rajivnarayana/Infinite-Android-List-Adapter')
+
+[SnappingScrollView]('https://github.com/rajivnarayana/SnappingScrollView')
+
+## Andrew Neal
+[TabCarouselLib]('https://bitbucket.org/adneal/tabcarousellib/overview')
+
+## Fedor Vlasov
+[LazyList]('https://github.com/thest1/LazyList')
+
+## Alessandro Crugnola
+[HorizontalVariableListView]('https://github.com/sephiroth74/HorizontalVariableListView')
+
 ## Damien
 [Uitableview4android]('https://github.com/DayS/uitableview4android')
+
+## Chiu-Ki Chan
+[AndroidSquareView]('https://github.com/chiuki/android-square-view')
+
+[AndroidSidewaysLayout]('https://github.com/chiuki/android-sideways-layout')
+
+## m5
+[MagicTextView]('https://github.com/m5/MagicTextView')
+
+## nhaarman
+[listViewAnimations]('https://github.com/nhaarman/ListViewAnimations')
+
+## Arnaud Vallat
+[AndroidScrollBarPanel]('https://github.com/rno/Android-ScrollBarPanel')
+
+## Jeremy Feinstein
+[JazzyViewPager]('https://github.com/jfeinstein10/JazzyViewPager')
+
+## nadavfima
+[CardsUIForAndroid]('https://github.com/nadavfima/cardsui-for-android')
+
+[GlowPadView]('https://github.com/nadavfima/GlowPadView')
+
+## Greg Billetdeaux
+[AndroidFlyInAppNavigation]('https://github.com/Gregadeaux/android-fly-in-app-navigation')
+
+## Jason
+[GestueImageView]('https://github.com/jasonpolites/gesture-imageview')
 
 
 ## Benoit Lubek
