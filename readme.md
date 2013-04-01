@@ -48,8 +48,44 @@ Copyright 2013-Forever fred Grott-GrottWorkShop
 
 [Salvage]('https://github.com/JakeWharton/salvage')
 
+[Snooker]('ttps://github.com/JakeWharton/snooker')
+
 ## Square
 [Seismic]('https://github.com/square/seismic')
+
+## Johan Nilsson
+[AndroidPullToRefresh]('https://github.com/johannilsson/android-pulltorefresh')
+
+## Lucas Rocha
+[Smoothie]('https://github.com/lucasr/smoothie')
+
+## Tjerk Wolterink
+[Android-SlideExpandableListView]('https://github.com/tjerkw/Android-SlideExpandableListView')
+
+## paramvir-b
+[AndroidGridViewompatLib]('https://github.com/paramvir-b/AndroidGridViewCompatLib')
+
+## Maurycy Wojtowicz
+[StaggeredGridView]('https://github.com/maurycyw/StaggeredGridView')
+
+## Jacob Moncur
+[QuiltViewLibrary]('https://github.com/jacobmoncur/QuiltViewLibrary')
+
+## Christopher Jenkins
+[ParallaxScrollView]('https://github.com/chrisjenx/ParallaxScrollView')
+
+## h6ah4i
+[MultiSelectListPreferenceCompat]('https://github.com/h6ah4i/mulsellistperfcompat')
+
+## Keyboardsurfer
+[Crouton]('https://github.com/keyboardsurfer/Crouton')
+
+## Tonic Artos
+[StickyGridHeaders]('https://github.com/TonicArtos/StickyGridHeaders')
+
+## Damien
+[Uitableview4android]('https://github.com/DayS/uitableview4android')
+
 
 ## Benoit Lubek
 [Android ActivityLifecycleCallbacks Compatibility Library]('https://github.com/BoD/android-activitylifecyclecallbacks-compat')

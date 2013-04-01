@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- LIST BORDER COLOR -->
+    <color name="cell_border">#FFD3D3D3</color>
+
+    <!-- ITEM BACKGROUND COLOR - LINE - DEFAULT -->
+    <color name="base_start_color_line_default">#FFFFFFFF</color>
+    <color name="base_end_color_line_default">#FFFFFFFF</color>
+
+    <!-- ITEM BACKGROUND COLOR - LINE - PRESSED -->
+    <color name="base_start_color_line_pressed">#FF3590C4</color>
+    <color name="base_end_color_line_pressed">#FF2570BA</color>
+
+    <!-- ITEM TEXT COLORS - STATES - PRESSED AND DEFAULT -->
+    <color name="text_color_default">#000000</color>
+    <color name="text_color_pressed">#FFFFFF</color>
+
+    <!-- TEXT COLORS -->
+    <color name="text_color_header">#4C566C</color>
+</resources>
